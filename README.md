@@ -1,0 +1,1 @@
+# webstatique-ressources-all-in-one
